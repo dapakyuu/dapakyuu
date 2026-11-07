@@ -17,6 +17,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Wajib: action menyimpan gambar dengan git, jadi isi repo harus diunduh dulu.
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -24,3 +27,5 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 7
+          # Hanya buat tema yang dipakai README, supaya lebih cepat.
+          THEME: tokyonight
