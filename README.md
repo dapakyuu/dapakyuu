@@ -39,23 +39,52 @@ I'm a **Computer Engineering undergraduate** at **Universitas Pendidikan Indones
 <table align="center">
   <tr>
     <td align="center" width="140"><b>🌐 Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vite,nodejs&perline=8" alt="Web" /></td>
+    <td>
+      <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
+      <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
+      <a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /></a>
+      <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+      <a href="https://vite.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /></a>
+      <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🧠 ML & Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,docker&perline=8" alt="Machine Learning" /></td>
+    <td>
+      <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>
+      <a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a>
+      <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a>
+      <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🗄️ Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&perline=8" alt="Database" /></td>
+    <td>
+      <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>
+      <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>
+      <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /></a>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>📱 Mobile & Game</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,godot&perline=8" alt="Mobile and Game" /></td>
+    <td>
+      <a href="https://flutter.dev" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /></a>
+      <a href="https://dart.dev" title="Dart"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /></a>
+      <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a>
+      <a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
+      <a href="https://godotengine.org" title="Godot Engine"><img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot Engine" /></a>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🔧 Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=8" alt="Tools" /></td>
+    <td>
+      <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+      <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+      <a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
+      <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>
+    </td>
   </tr>
 </table>
 
