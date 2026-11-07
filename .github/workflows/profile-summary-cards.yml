@@ -1,0 +1,26 @@
+# Membuat kartu statistik GitHub (termasuk grafik persentase bahasa) dan menyimpannya
+# ke folder profile-summary-card-output/ di repo ini. README memakai tema "tokyonight".
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # setiap hari pukul 07:00 WIB
+  workflow_dispatch: # bisa dijalankan manual dari tab Actions
+  push:
+    branches: [main]
+    paths: [README.md, .github/workflows/profile-summary-cards.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 7
